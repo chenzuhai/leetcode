@@ -5,6 +5,7 @@ import entity.ListNode;
 import java.util.List;
 
 /**
+ * 归并排序链表
  * @author Zuhai Chen
  * @version 1.0
  * @date 2021/3/8 18:44
